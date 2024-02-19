@@ -2,13 +2,12 @@
 
 .col-md-5
 {
-	display: flex
+	display: right
 }
 
 .img-responsive {
 	max-width: 20%;
 	height: auto;
-	text-align: right
 }
 
 /* trainings section */
