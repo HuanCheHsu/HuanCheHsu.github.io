@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+SC');
+
+.col-md-5
+{
+	float: left
+}
+
+.img-responsive {
+	max-width: 20%;
+	height: auto;
+	text-align: right
+}
+
+/* trainings section */
+.container {
+	display: grid;
+	margin: 0 auto;
+    max-width: 1280px;
+    width: 90%;
+}
+
+.skills {
+	background-color: rgb(240, 230, 250);
+	color: #0000000;
+}
+
+.skills .flex-list {
+	margin-left: -20px;
+	margin-right: -20px;
+}
+
+.skills {
+	max-width: 385px;
+	width: 385px;
+	margin: 27px;
+	margin-bottom: 40px;
+}
+
+.skills h8 {
+	text-transform: capitalize;
+	margin-bottom: 15px;
+}
+
+.skills p {
+	color: #000000;
+}
